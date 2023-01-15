@@ -1,5 +1,5 @@
 #include<SDL.h>
-#include<iostream>
+#include<bits/stdc++.h>
 #include<limits>
 #include<time.h>
 #include<string>
